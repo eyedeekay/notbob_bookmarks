@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "tassel",
+  "name": "botbob.i2p blog bookmarks",
   "version": "0.0.1",
-  "description": "Template project for adding bookmarks to a web browser with an extension",
-  "homepage_url": "https://github.com/eyedeekay/Tassel",
+  "description": "Bookmarks scraped from not_bob's review blog for URL completion, filtering, and search in I2P browsers",
+  "homepage_url": "https://github.com/eyedeekay/notbob_bookmarks",
   "permissions": [
     "bookmarks",
     "management"

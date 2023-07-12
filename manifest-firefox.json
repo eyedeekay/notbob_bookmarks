@@ -1,15 +1,15 @@
 {
   "browser_specific_settings": {
     "gecko": {
-      "id": "tassel@eyedeekay.github.io",
+      "id": "botbob.i2p blog bookmarks@eyedeekay.github.io/notbob_bookmarks",
       "strict_min_version": "100.0"
     }
   },
   "manifest_version": 2,
-  "name": "tassel",
+  "name": "botbob.i2p blog bookmarks",
   "version": "0.0.1",
-  "description": "Template project for adding bookmarks to a web browser with an extension",
-  "homepage_url": "https://github.com/eyedeekay/Tassel",
+  "description": "Bookmarks scraped from not_bob's review blog for URL completion, filtering, and search in I2P browsers",
+  "homepage_url": "https://github.com/eyedeekay/notbob_bookmarks",
   "icons": {
     "48": "icons/tassel.png",
     "96": "icons/tassel@2x.png"
