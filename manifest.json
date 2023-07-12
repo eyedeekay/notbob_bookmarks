@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "tassel",
+  "version": "0.0.1",
+  "description": "Template project for adding bookmarks to a web browser with an extension",
+  "homepage_url": "https://github.com/eyedeekay/Tassel",
+  "permissions": [
+    "bookmarks",
+    "management"
+  ],
+  "background": {
+    "scripts": [
+      "browser-polyfill.js",
+      "background.js"
+    ]
+  }
+}
